@@ -1,0 +1,64 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Every 6 hours
+  workflow_dispatch:
+
+concurrency:
+  group: profile-content-updates
+  cancel-in-progress: false
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: rishav-raj-genx
+          template: classic
+          config_timezone: Asia/Kolkata
+          output_action: none
+          
+          # Output file
+          filename: generated/github-metrics.svg
+          
+          # Base configuration
+          base: header, repositories
+          base_indepth: no
+          repositories_forks: no
+          
+          # Achievements disabled to avoid deprecated APIs
+          plugin_achievements: no
+          
+          # Show languages
+          plugin_languages: yes
+          plugin_languages_categories: programming
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 2%
+          plugin_languages_colors: github
+          
+          # Hide these sections
+          plugin_isocalendar: no
+          plugin_notable: no
+      
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add generated/github-metrics.svg
+          git diff --staged --quiet || git commit -m 'chore: update GitHub stats'
+          git pull --rebase origin main
+          git push
