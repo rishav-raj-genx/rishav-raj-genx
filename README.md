@@ -2,11 +2,11 @@
 
   <!-- Typing Animated Banner -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=70&lines=Hi+,+I'm+Rishav+Raj;Full-Stack+Systems+Engineer;Building+Scalable+Cloud+Architectures;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Rishav+Raj;Frontend+Developer;Open+Source+Contributor;AI+%26+ML+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Computer Science & Engineering Student</strong> • <i>Crafting high-performance applications with modern stacks.</i>
+    <strong>Computer Science & Engineering (AI & ML) Student</strong> • <i>Building responsive interfaces and open-source solutions.</i>
   </p>
 
   <p align="center">
@@ -18,15 +18,10 @@
 
 ---
 
-### Technical Overview
+### ⚡ Technical Overview
 
 ```sys
 $ whoami
-> Rishav Raj | Full-Stack Developer & Distributed Systems Enthusiast
+> Frontend Developer passionate about UI/UX, responsive web design, and open-source.
 $ current_focus
-> Advanced TypeScript, Rust internals, and Cloud-Native microservices.
-
-### 📰 Latest Articles & Publications
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [[Boost]](https://dev.to/rishavraj/-hj4) — *May 02, 2026*<!-- BLOG-POST-LIST:END -->
+> React, DOM APIs, and Data Structures & Algorithms (200+ on LeetCode).
