@@ -18,10 +18,15 @@
 
 ---
 
-### ⚡ Technical Overview
+### Technical Overview
 
 ```sys
 $ whoami
 > Rishav Raj | Full-Stack Developer & Distributed Systems Enthusiast
 $ current_focus
 > Advanced TypeScript, Rust internals, and Cloud-Native microservices.
+
+### 📰 Latest Articles & Publications
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
