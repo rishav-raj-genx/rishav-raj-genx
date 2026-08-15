@@ -56,7 +56,7 @@
 ### 📝 Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🚀 [[Boost]](https://dev.to/rishavraj/-hj4) — *May 02, 2026*<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
