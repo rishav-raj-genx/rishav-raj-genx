@@ -18,7 +18,7 @@
 
 ---
 
-### ⚡ Technical Overview
+### Technical Overview
 
 ```sys
 $ whoami
