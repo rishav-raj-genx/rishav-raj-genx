@@ -1,0 +1,20 @@
+name: Latest Blog Posts Workflow
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Replace with your Dev.to, Hashnode, Medium, or personal RSS feed URL
+          feed_list: "https://dev.to/feed/rishavraj"
+          max_post_count: 5
