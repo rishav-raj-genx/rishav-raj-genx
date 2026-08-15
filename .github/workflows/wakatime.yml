@@ -1,7 +1,7 @@
 name: WakaTime Stats Workflow
 on:
   schedule:
-    - cron: '30 18 * * *' # Runs daily
+    - cron: '30 18 * * *'
   workflow_dispatch:
 
 permissions:
@@ -20,3 +20,4 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "False"
