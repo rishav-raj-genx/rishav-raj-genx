@@ -29,4 +29,5 @@ $ current_focus
 ### 📰 Latest Articles & Publications
 
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/rishavraj/-hj4)
 <!-- BLOG-POST-LIST:END -->
