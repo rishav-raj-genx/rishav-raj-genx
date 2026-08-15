@@ -118,6 +118,38 @@ I'm a passionate open-source contributor who was selected for **Google Summer of
 ## 🕒 WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.21%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 238.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 394 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 58 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               30 repos            ██████████████░░░░░░░░░░░   54.55 % 
+CSS                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/08/2026 18:56:35 UTC
 <!--END_SECTION:waka-->
 
 ---
