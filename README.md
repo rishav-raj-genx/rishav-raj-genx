@@ -2,62 +2,60 @@
 
 <p align="center">
   <a href="https://github.com/rishav-raj-genx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+%2F+Full-Stack+Developer;Google+Summer+of+Code+Contributor;Open+Source+Enthusiast+%26+Builder;Leveling+Up+in+DSA+%26+Web+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+%2F+Full-Stack+Developer;Open+Source+Enthusiast+%26+Builder;Leveling+Up+in+DSA+%26+Web+Dev" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/GSoC-Contributor-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GSoC"/>
   <img src="https://img.shields.io/github/stars/rishav-raj-genx?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=6C63FF" alt="Stars"/>
   <img src="https://komarev.com/ghpvc/?username=rishav-raj-genx&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 **First-Year College Student & Frontend / Full-Stack Developer**
 
-I'm a passionate open-source contributor who was selected for **Google Summer of Code (GSoC)**, where I contribute to the **Gambit** project — fixing UI bugs, improving responsiveness, and shipping cleaner interfaces.
+I'm a passionate open-source contributor and developer. I focus on building clean interfaces, optimizing performance, and continuously learning new technologies.
 
-- 🔹 Building responsive web apps with React & Node.js
-- 🔹 Sharpening my skills in Data Structures & Algorithms (DSA)
-- 🔹 Actively contributing to open-source projects
-- 🔹 Winner of **CSS Battle Competition (2026)** & President of my college **Coding Club**
+- Building responsive web apps with React & Node.js
+- Sharpening my skills in Data Structures & Algorithms (DSA)
+- Actively contributing to open-source projects
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-> Highlighted projects I've built and contributed to.
+> Highlighted projects from my pinned repositories.
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/rishav-raj-genx/resume-builder"><img src="https://img.shields.io/badge/Resume_Builder-React_CRUD-6C63FF?style=for-the-badge&logo=react&logoColor=white"/></a><br/>
-      <sub><b>A React-based CRUD Resume Builder for creating, editing, and exporting resumes</b></sub>
+      <a href="https://github.com/rishav-raj-genx/Mind-Craft"><img src="https://img.shields.io/badge/Mind--Craft-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a><br/>
+      <sub><b>Peer Learning Platform built with JavaScript</b></sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/rishav-raj-genx/peer-tutor"><img src="https://img.shields.io/badge/PeerTutor-Node.js_Web_App-10B981?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a><br/>
-      <sub><b>A peer learning web app built with Express & Handlebars</b></sub>
+      <a href="https://github.com/rishav-raj-genx/Live-Collaborative-White-Board"><img src="https://img.shields.io/badge/White--Board-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a><br/>
+      <sub><b>Live Collaborative White-Board application</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/AcademySoftwareFoundation/Gambit"><img src="https://img.shields.io/badge/Gambit_(GSoC)-Open_Source-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a><br/>
-      <sub><b>GSoC contributor — fixing UI/responsiveness issues in the Gambit project</b></sub>
+      <a href="https://github.com/rishav-raj-genx/Digital-Time-Capsule"><img src="https://img.shields.io/badge/Time--Capsule-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a><br/>
+      <sub><b>Interactive Digital Time Capsule web app</b></sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/rishav-raj-genx"><img src="https://img.shields.io/badge/More_Projects-Explore_My_Repos-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a><br/>
-      <sub><b>Check out my other repositories and experiments</b></sub>
+      <a href="https://github.com/rishav-raj-genx/Kinesis-College-Demo-Website"><img src="https://img.shields.io/badge/Kinesis--College-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a><br/>
+      <sub><b>College Demo Website featuring responsive design</b></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 <p align="left">
@@ -85,7 +83,7 @@ I'm a passionate open-source contributor who was selected for **Google Summer of
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <!-- 3D Contribution Calendar - Self-generated via GitHub Actions -->
 <p align="center">
@@ -103,7 +101,7 @@ I'm a passionate open-source contributor who was selected for **Google Summer of
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <picture>
@@ -115,53 +113,21 @@ I'm a passionate open-source contributor who was selected for **Google Summer of
 
 ---
 
-## 🕒 WakaTime Coding Activity
+## WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.21%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 238.0 kB Used in GitHub's Storage 
- > 
-> 🏆 394 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 58 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               30 repos            ██████████████░░░░░░░░░░░   54.55 % 
-CSS                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
-
-
- Last Updated on 15/08/2026 18:56:35 UTC
 <!--END_SECTION:waka-->
 
 ---
 
-## 📝 Recent Articles
+## Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [[Boost]](https://dev.to/rishavraj/-hj4) — *May 02, 2026*<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="mailto:rishavraj.rr1234@gmail.com"><img src="https://img.shields.io/badge/Email-rishavraj.rr1234-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -172,11 +138,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ---
 
 <p align="center">
-  <i>💡 Passionate about open source and building great web experiences? Let's connect and collaborate!</i>
+  <i>Passionate about open source and building great web experiences? Let's connect and collaborate!</i>
 </p>
 
 <p align="center">
   <a href="https://github.com/rishav-raj-genx?tab=repositories">
-    <img src="https://img.shields.io/badge/⭐_Explore_My_Repos-6C63FF?style=for-the-badge" alt="Explore Repos"/>
+    <img src="https://img.shields.io/badge/Explore_My_Repos-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repos"/>
   </a>
 </p>
