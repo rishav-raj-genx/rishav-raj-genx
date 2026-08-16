@@ -104,11 +104,8 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 ## GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/generated/github-metrics.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/generated/github-metrics.svg" />
-    <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/generated/github-metrics.svg" alt="GitHub Metrics"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishav-raj-genx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishav-raj-genx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
