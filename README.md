@@ -111,42 +111,42 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 ## WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.20%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.28%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 156.2 kB Used in GitHub's Storage 
+> 📦 162.7 kB Used in GitHub's Storage 
  > 
-> 🏆 389 Contributions in the Year 2026
+> 🏆 397 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                110 commits         ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-🌆 Daytime                85 commits          █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-🌃 Evening                142 commits         █████████░░░░░░░░░░░░░░░░   36.22 % 
-🌙 Night                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+🌞 Morning                114 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌆 Daytime                88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+🌃 Evening                142 commits         █████████░░░░░░░░░░░░░░░░   35.59 % 
+🌙 Night                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Tuesday                  86 commits          █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-Wednesday                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Saturday                 57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Sunday                   128 commits         ████████░░░░░░░░░░░░░░░░░   32.65 % 
+Monday                   58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Tuesday                  86 commits          █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Wednesday                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Saturday                 57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Sunday                   135 commits         ████████░░░░░░░░░░░░░░░░░   33.83 % 
 ```
 
 
@@ -156,50 +156,52 @@ Sunday                   128 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               14 mins             ████████████████████████░   96.02 % 
-Kotlin                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+JavaScript               17 mins             ████████████████████████░   97.89 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-Antigravity IDE          15 mins             █████████████████████████   100.00 % 
+Antigravity IDE          10 mins             ██████████████░░░░░░░░░░░   57.29 % 
+Codex Vscode             7 mins              ███████████░░░░░░░░░░░░░░   42.71 % 
 
 🐱‍💻 Projects: 
-antigravity-cli-wakatime 13 mins             ██████████████████████░░░   86.28 % 
-Mind-Craft               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Rail_gardi               17 mins             ████████████████████████░   97.89 % 
+RailGuard-AI             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+Mac                      18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (100.0%)
+⏱ AI Coding Time: 18 mins (100.0%)
 
-✍️ 17 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 31 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 44,272 Input Tokens, 6,165 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.29 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 5 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-Gemini                   17 lines            █████████████████████████   100.00 % 
+GPT                      35 lines            ██████████████████████░░░   89.74 % 
+Opus                     4 lines             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 448 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📚 Verbose Prompter — average 1,594 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               31 repos            ██████████████░░░░░░░░░░░   55.36 % 
-TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-CSS                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JavaScript               30 repos            █████████████░░░░░░░░░░░░   51.72 % 
+TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
@@ -209,7 +211,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:59:25 UTC
+ Last Updated on 23/08/2026 18:58:11 UTC
 <!--END_SECTION:waka-->
 
 ---
