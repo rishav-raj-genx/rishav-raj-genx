@@ -132,21 +132,21 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                114 commits         ███████░░░░░░░░░░░░░░░░░░   27.74 % 
-🌆 Daytime                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-🌃 Evening                147 commits         █████████░░░░░░░░░░░░░░░░   35.77 % 
-🌙 Night                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+🌞 Morning                114 commits         ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+🌆 Daytime                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+🌃 Evening                148 commits         █████████░░░░░░░░░░░░░░░░   35.92 % 
+🌙 Night                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Tuesday                  87 commits          █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Wednesday                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Thursday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Saturday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Sunday                   135 commits         ████████░░░░░░░░░░░░░░░░░   32.85 % 
+Monday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Tuesday                  88 commits          █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Wednesday                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Thursday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Saturday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Sunday                   135 commits         ████████░░░░░░░░░░░░░░░░░   32.77 % 
 ```
 
 
@@ -156,21 +156,20 @@ Sunday                   135 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 26 mins        ████████████████░░░░░░░░░   64.57 % 
-TypeScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+JavaScript               1 hr 26 mins        ████████████████░░░░░░░░░   64.76 % 
+TypeScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 28 mins        █████████████████░░░░░░░░   66.40 % 
-Antigravity IDE          36 mins             ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-Antigravity              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Codex Vscode             1 hr 28 mins        █████████████████░░░░░░░░   66.59 % 
+Antigravity IDE          36 mins             ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+Antigravity              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🐱‍💻 Projects: 
-Railgaurd-AI             1 hr 46 mins        ████████████████████░░░░░   79.35 % 
-Rail_gardi               27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-RailGuard-AI             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Railgaurd-AI             1 hr 46 mins        ████████████████████░░░░░   79.58 % 
+Rail_gardi               27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
 FAR-AWAY-TEMP-           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
@@ -188,7 +187,7 @@ Mac                      2 hrs 13 mins       ███████████�
 
 💵 $12.39 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 19 AI Prompts
+🧠 8 AI Sessions, 19 AI Prompts
 
 GPT                      472 lines           ███████████████████████░░   91.47 % 
 Codex-Vscode             22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
@@ -219,7 +218,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:17:30 UTC
+ Last Updated on 29/08/2026 01:51:40 UTC
 <!--END_SECTION:waka-->
 
 ---
