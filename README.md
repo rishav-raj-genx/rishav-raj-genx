@@ -119,7 +119,7 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 
 **🐱 My GitHub Data** 
 
-> 📦 163.2 kB Used in GitHub's Storage 
+> 📦 162.8 kB Used in GitHub's Storage 
  > 
 > 🏆 409 Contributions in the Year 2026
  > 
@@ -156,47 +156,46 @@ Sunday                   135 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 26 mins        ████████████████░░░░░░░░░   64.76 % 
-TypeScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+JavaScript               1 hr 8 mins         ███████████████░░░░░░░░░░   59.34 % 
+TypeScript               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 28 mins        █████████████████░░░░░░░░   66.59 % 
-Antigravity IDE          36 mins             ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-Antigravity              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Codex Vscode             1 hr 21 mins        ██████████████████░░░░░░░   70.12 % 
+Antigravity IDE          26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Antigravity              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 🐱‍💻 Projects: 
-Railgaurd-AI             1 hr 46 mins        ████████████████████░░░░░   79.58 % 
-Rail_gardi               27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-FAR-AWAY-TEMP-           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Railgaurd-AI             1 hr 46 mins        ███████████████████████░░   91.81 % 
+Rail_gardi               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+FAR-AWAY-TEMP-           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 13 mins (100.0%)
+⏱ AI Coding Time: 1 hr 55 mins (100.0%)
 
-✍️ 409 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 378 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 436,356 Input Tokens, 78,418 Output Tokens
+🔤 392,084 Input Tokens, 72,253 Output Tokens
 
-💵 $12.39 Estimated AI Cost This Week
+💵 $12.09 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 19 AI Prompts
+🧠 6 AI Sessions, 14 AI Prompts
 
-GPT                      472 lines           ███████████████████████░░   91.47 % 
-Codex-Vscode             22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Gemini                   18 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Opus                     4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+GPT                      437 lines           ███████████████████████░░   91.61 % 
+Codex-Vscode             22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Gemini                   18 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,622 characters per prompt
+📚 Verbose Prompter — average 1,632 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -218,7 +217,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:05:35 UTC
+ Last Updated on 30/08/2026 21:21:40 UTC
 <!--END_SECTION:waka-->
 
 ---
