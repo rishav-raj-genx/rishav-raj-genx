@@ -132,21 +132,21 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                114 commits         ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-🌆 Daytime                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-🌃 Evening                148 commits         █████████░░░░░░░░░░░░░░░░   35.92 % 
-🌙 Night                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+🌞 Morning                114 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+🌆 Daytime                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+🌃 Evening                149 commits         █████████░░░░░░░░░░░░░░░░   36.08 % 
+🌙 Night                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Tuesday                  88 commits          █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Wednesday                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Thursday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Saturday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Sunday                   135 commits         ████████░░░░░░░░░░░░░░░░░   32.77 % 
+Monday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Tuesday                  89 commits          █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Wednesday                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Thursday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Saturday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Sunday                   135 commits         ████████░░░░░░░░░░░░░░░░░   32.69 % 
 ```
 
 
@@ -156,48 +156,22 @@ Sunday                   135 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 8 mins         ███████████████░░░░░░░░░░   59.34 % 
-TypeScript               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 21 mins        ██████████████████░░░░░░░   70.12 % 
-Antigravity IDE          26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-Antigravity              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Railgaurd-AI             1 hr 46 mins        ███████████████████████░░   91.81 % 
-Rail_gardi               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-FAR-AWAY-TEMP-           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 55 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (100.0%)
-
-✍️ 378 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 392,084 Input Tokens, 72,253 Output Tokens
-
-💵 $12.09 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 14 AI Prompts
-
-GPT                      437 lines           ███████████████████████░░   91.61 % 
-Codex-Vscode             22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Gemini                   18 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,632 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -217,7 +191,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:21:40 UTC
+ Last Updated on 31/08/2026 23:00:20 UTC
 <!--END_SECTION:waka-->
 
 ---
