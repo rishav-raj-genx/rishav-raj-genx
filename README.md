@@ -111,17 +111,17 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 ## WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.35%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 193.9 kB Used in GitHub's Storage 
+> 📦 194.0 kB Used in GitHub's Storage 
  > 
-> 🏆 432 Contributions in the Year 2026
+> 🏆 433 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -156,45 +156,45 @@ Sunday                   135 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 2 mins         ██████████████░░░░░░░░░░░   54.00 % 
-TypeScript               23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+JavaScript               1 hr 2 mins         ████████████░░░░░░░░░░░░░   48.31 % 
+Other                    29 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+TypeScript               28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 55 mins        █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-club!!                   59 mins             █████████████░░░░░░░░░░░░   51.76 % 
-my-3d-portfolio          18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-friend                   17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Project                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-tech_club_web            7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+club!!                   59 mins             ████████████░░░░░░░░░░░░░   46.30 % 
+Project                  21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+my-3d-portfolio          18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+friend                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+tech_club_web            7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 💻 Operating System: 
-Mac                      1 hr 55 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 8 mins (100.0%)
 
-✍️ 78 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 91 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 27 AI Prompts
+🧠 11 AI Sessions, 30 AI Prompts
 
-Gemini                   73 lines            ████████████████████░░░░░   80.22 % 
-Opus                     18 lines            █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Gemini                   87 lines            █████████████████████░░░░   82.86 % 
+Opus                     18 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 433 characters per prompt
+📝 Concise Prompter — average 399 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -216,7 +216,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:41:31 UTC
+ Last Updated on 08/09/2026 21:21:00 UTC
 <!--END_SECTION:waka-->
 
 ---
