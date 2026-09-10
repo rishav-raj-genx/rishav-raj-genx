@@ -119,7 +119,7 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 
 **🐱 My GitHub Data** 
 
-> 📦 194.0 kB Used in GitHub's Storage 
+> 📦 194.1 kB Used in GitHub's Storage 
  > 
 > 🏆 433 Contributions in the Year 2026
  > 
@@ -156,46 +156,39 @@ Sunday                   135 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 2 mins         ████████████░░░░░░░░░░░░░   48.31 % 
-Other                    29 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-TypeScript               28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Other                    8 mins              █████████████░░░░░░░░░░░░   53.42 % 
+TypeScript               7 mins              ████████████░░░░░░░░░░░░░   46.58 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 8 mins        █████████████████████████   100.00 % 
+Antigravity IDE          15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-club!!                   59 mins             ████████████░░░░░░░░░░░░░   46.30 % 
-Project                  21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-my-3d-portfolio          18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-friend                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-tech_club_web            7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Project                  13 mins             █████████████████████░░░░   85.77 % 
+my-3d-portfolio          2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 
 💻 Operating System: 
-Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (100.0%)
+⏱ AI Coding Time: 15 mins (100.0%)
 
-✍️ 91 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 51 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 30 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
-Gemini                   87 lines            █████████████████████░░░░   82.86 % 
-Opus                     18 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Gemini                   53 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 399 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 82 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -216,7 +209,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:06:34 UTC
+ Last Updated on 10/09/2026 21:04:29 UTC
 <!--END_SECTION:waka-->
 
 ---
