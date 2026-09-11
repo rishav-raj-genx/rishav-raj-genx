@@ -115,38 +115,38 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.35%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 194.1 kB Used in GitHub's Storage 
+> 📦 193.9 kB Used in GitHub's Storage 
  > 
-> 🏆 433 Contributions in the Year 2026
+> 🏆 443 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 54 Public Repositories 
+> 📜 55 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                119 commits         ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-🌆 Daytime                100 commits         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-🌃 Evening                159 commits         █████████░░░░░░░░░░░░░░░░   36.47 % 
-🌙 Night                  58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+🌞 Morning                119 commits         ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+🌆 Daytime                100 commits         ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+🌃 Evening                169 commits         █████████░░░░░░░░░░░░░░░░   37.89 % 
+🌙 Night                  58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Tuesday                  89 commits          █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Wednesday                49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Thursday                 26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Friday                   16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Saturday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Sunday                   135 commits         ████████░░░░░░░░░░░░░░░░░   30.96 % 
+Monday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Tuesday                  90 commits          █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Wednesday                49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Thursday                 26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Friday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Saturday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Sunday                   135 commits         ████████░░░░░░░░░░░░░░░░░   30.27 % 
 ```
 
 
@@ -156,50 +156,49 @@ Sunday                   135 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    8 mins              █████████████░░░░░░░░░░░░   53.42 % 
-TypeScript               7 mins              ████████████░░░░░░░░░░░░░   46.58 % 
+Other                    8 mins              ████████████████░░░░░░░░░   62.29 % 
+TypeScript               5 mins              █████████░░░░░░░░░░░░░░░░   37.71 % 
 
 🔥 Editors: 
-Antigravity IDE          15 mins             █████████████████████████   100.00 % 
+Antigravity IDE          13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Project                  13 mins             █████████████████████░░░░   85.77 % 
-my-3d-portfolio          2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Project                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (100.0%)
+⏱ AI Coding Time: 13 mins (100.0%)
 
-✍️ 51 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 13 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Gemini                   53 lines            █████████████████████████   100.00 % 
+Gemini                   14 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 82 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 95 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               32 repos            █████████████░░░░░░░░░░░░   50.79 % 
-TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JavaScript               32 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+EJS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
@@ -209,7 +208,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:04:29 UTC
+ Last Updated on 11/09/2026 21:09:29 UTC
 <!--END_SECTION:waka-->
 
 ---
