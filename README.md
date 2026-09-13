@@ -111,15 +111,15 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 ## WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 193.9 kB Used in GitHub's Storage 
+> 📦 194.0 kB Used in GitHub's Storage 
  > 
 > 🏆 445 Contributions in the Year 2026
  > 
@@ -156,25 +156,25 @@ Sunday                   135 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               13 mins             ████████████░░░░░░░░░░░░░   48.97 % 
-Other                    8 mins              ████████░░░░░░░░░░░░░░░░░   31.79 % 
-TypeScript               5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+JavaScript               38 mins             ███████████████░░░░░░░░░░   58.91 % 
+Other                    21 mins             ████████░░░░░░░░░░░░░░░░░   33.29 % 
+TypeScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 🔥 Editors: 
-Antigravity IDE          26 mins             █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Project                  13 mins             █████████████░░░░░░░░░░░░   51.03 % 
-Class_Hackathon          13 mins             ████████████░░░░░░░░░░░░░   48.97 % 
+Class_Hackathon          52 mins             ████████████████████░░░░░   79.31 % 
+Project                  13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (100.0%)
+⏱ AI Coding Time: 1 hr 5 mins (100.0%)
 
 ✍️ 13 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -182,14 +182,15 @@ Mac                      26 mins             ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
-Gemini                   16 lines            █████████████████████████   100.00 % 
+Gemini                   16 lines            ██████████████████████░░░   88.89 % 
+Opus                     2 lines             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 95 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 142 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -210,7 +211,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:46:38 UTC
+ Last Updated on 13/09/2026 21:02:50 UTC
 <!--END_SECTION:waka-->
 
 ---
