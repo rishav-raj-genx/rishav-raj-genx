@@ -132,21 +132,21 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                122 commits         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-🌆 Daytime                100 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-🌃 Evening                169 commits         █████████░░░░░░░░░░░░░░░░   37.64 % 
-🌙 Night                  58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+🌞 Morning                122 commits         ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+🌆 Daytime                100 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+🌃 Evening                171 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
+🌙 Night                  58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   65 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Tuesday                  90 commits          █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Wednesday                49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Thursday                 26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Friday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Saturday                 59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Sunday                   135 commits         ████████░░░░░░░░░░░░░░░░░   30.07 % 
+Monday                   65 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Tuesday                  92 commits          █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Wednesday                49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Thursday                 26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Friday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Saturday                 59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Sunday                   135 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
 ```
 
 
@@ -156,40 +156,38 @@ Sunday                   135 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               38 mins             ███████████████░░░░░░░░░░   58.91 % 
-Other                    21 mins             ████████░░░░░░░░░░░░░░░░░   33.29 % 
-TypeScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+JavaScript               38 mins             ███████████████████░░░░░░   74.27 % 
+Other                    13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 5 mins         █████████████████████████   100.00 % 
+Antigravity IDE          52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Class_Hackathon          52 mins             ████████████████████░░░░░   79.31 % 
-Project                  13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Class_Hackathon          52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
+Mac                      52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (100.0%)
+⏱ AI Coding Time: 52 mins (100.0%)
 
-✍️ 13 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 11 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
-Gemini                   16 lines            ██████████████████████░░░   88.89 % 
-Opus                     2 lines             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Gemini                   2 lines             ████████████░░░░░░░░░░░░░   50.00 % 
+Opus                     2 lines             ████████████░░░░░░░░░░░░░   50.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 142 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 159 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -211,7 +209,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 21:59:12 UTC
+ Last Updated on 15/09/2026 21:36:50 UTC
 <!--END_SECTION:waka-->
 
 ---
