@@ -111,17 +111,17 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 ## WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.38%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 195.2 kB Used in GitHub's Storage 
+> 📦 195.7 kB Used in GitHub's Storage 
  > 
-> 🏆 476 Contributions in the Year 2026
+> 🏆 480 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -132,21 +132,21 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                130 commits         ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-🌆 Daytime                101 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-🌃 Evening                199 commits         ██████████░░░░░░░░░░░░░░░   40.78 % 
-🌙 Night                  58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+🌞 Morning                130 commits         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+🌆 Daytime                101 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+🌃 Evening                201 commits         ██████████░░░░░░░░░░░░░░░   40.94 % 
+🌙 Night                  59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Tuesday                  95 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Wednesday                49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Thursday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Friday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Saturday                 59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Sunday                   143 commits         ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+Monday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Tuesday                  95 commits          █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Thursday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Friday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Sunday                   143 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
 ```
 
 
@@ -156,45 +156,45 @@ Sunday                   143 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 30 mins        ████████████░░░░░░░░░░░░░   47.59 % 
-HTML                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-JavaScript               29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-CSS                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+TypeScript               1 hr 34 mins        ███████████░░░░░░░░░░░░░░   43.32 % 
+HTML                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+JavaScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+CSS                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 7 mins        █████████████████░░░░░░░░   66.90 % 
-Antigravity              1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   33.10 % 
+Antigravity IDE          2 hrs 34 mins       ██████████████████░░░░░░░   71.04 % 
+Antigravity              1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   28.96 % 
 
 🐱‍💻 Projects: 
-KD                       1 hr 54 mins        ███████████████░░░░░░░░░░   60.07 % 
-SIH-Prototype-2          38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-SIH-Prototype            37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+KD                       2 hrs 21 mins       ████████████████░░░░░░░░░   65.06 % 
+SIH-Prototype-2          38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+SIH-Prototype            37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
 
 💻 Operating System: 
-Mac                      3 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 10 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 38 mins (100.0%)
 
-✍️ 2,675 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,075 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,480,425 Input Tokens, 221,756 Output Tokens
+🔤 2,818,508 Input Tokens, 246,955 Output Tokens
 
-💵 $6.98 Estimated AI Cost This Week
+💵 $8.83 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 48 AI Prompts
+🧠 6 AI Sessions, 56 AI Prompts
 
-Gemini                   1,335 lines         ███████████████░░░░░░░░░░   61.13 % 
-Opus                     849 lines           ██████████░░░░░░░░░░░░░░░   38.87 % 
+Gemini                   1,335 lines         █████████████░░░░░░░░░░░░   51.66 % 
+Opus                     1,249 lines         ████████████░░░░░░░░░░░░░   48.34 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,742 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 1,739 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -215,7 +215,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:52:07 UTC
+ Last Updated on 02/10/2026 22:28:17 UTC
 <!--END_SECTION:waka-->
 
 ---
