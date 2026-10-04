@@ -111,17 +111,17 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 ## WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.38%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 195.7 kB Used in GitHub's Storage 
+> 📦 195.8 kB Used in GitHub's Storage 
  > 
-> 🏆 480 Contributions in the Year 2026
+> 🏆 490 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -156,56 +156,56 @@ Sunday                   143 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 34 mins        ███████████░░░░░░░░░░░░░░   43.32 % 
-HTML                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-JavaScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-CSS                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+TypeScript               1 hr 35 mins        ███████████░░░░░░░░░░░░░░   43.61 % 
+HTML                     47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+JavaScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+CSS                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 34 mins       ██████████████████░░░░░░░   71.04 % 
-Antigravity              1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+Antigravity IDE          2 hrs 36 mins       ██████████████████░░░░░░░   71.19 % 
+Antigravity              1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   28.81 % 
 
 🐱‍💻 Projects: 
-KD                       2 hrs 21 mins       ████████████████░░░░░░░░░   65.06 % 
-SIH-Prototype-2          38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-SIH-Prototype            37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+KD                       2 hrs 23 mins       ████████████████░░░░░░░░░   65.25 % 
+SIH-Prototype-2          38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+SIH-Prototype            37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
 
 💻 Operating System: 
-Mac                      3 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 38 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 39 mins (100.0%)
 
 ✍️ 3,075 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,818,508 Input Tokens, 246,955 Output Tokens
+🔤 2,818,961 Input Tokens, 247,208 Output Tokens
 
-💵 $8.83 Estimated AI Cost This Week
+💵 $8.84 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 56 AI Prompts
+🧠 7 AI Sessions, 57 AI Prompts
 
 Gemini                   1,335 lines         █████████████░░░░░░░░░░░░   51.66 % 
 Opus                     1,249 lines         ████████████░░░░░░░░░░░░░   48.34 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,739 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 1,709 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               32 repos            ████████████░░░░░░░░░░░░░   47.76 % 
-TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+JavaScript               33 repos            ████████████░░░░░░░░░░░░░   48.53 % 
+TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 ```
 
 
@@ -215,7 +215,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:39:24 UTC
+ Last Updated on 04/10/2026 21:46:23 UTC
 <!--END_SECTION:waka-->
 
 ---
