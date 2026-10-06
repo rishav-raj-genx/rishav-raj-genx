@@ -9,7 +9,7 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/github/stars/rishav-raj-genx?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=6C63FF" alt="Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=rishav-raj-genx&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rishav-raj-genx&color=6C63FF&style=for-the-badge&label=Profile%20Views" alt="Profile Views"/>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 <!-- Side-by-Side About Section (Left) and Image (Right) -->
 <img align="right" src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="380" />
 
-## About Me
+### About Me
 
 **Computer Science Undergraduate & Software Developer**
 
@@ -27,13 +27,11 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 - Sharpening my skills in Data Structures & Algorithms (DSA)
 - Actively contributing to open-source projects
 
-<!-- This tag forces the layout to push past the image before continuing -->
 <br clear="all" />
 
 ---
 
 ## Featured Projects
-
 > Highlighted projects from my pinned repositories.
 
 <table>
