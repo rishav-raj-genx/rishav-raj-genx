@@ -1,8 +1,8 @@
 <h1 align="center">Rishav Raj, Here</h1>
 
-<!-- 1. CUSTOM GRAPH IMAGE (Upload your image to an 'assets' folder and update this filename) -->
+<!-- 1. CUSTOM GRAPH IMAGE -->
 <p align="center">
-  <img src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="650"/>
+  <img src="assets/my-custom-graph.png" alt="Rishav's Custom Graph" width="650"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## About Me
 
-**First-Year College Student & Frontend / Full-Stack Developer**
+**Computer Science Undergraduate & Software Developer**
 
 I'm a passionate open-source contributor and developer. I focus on building clean interfaces, optimizing performance, and continuously learning new technologies.
 
@@ -39,7 +39,7 @@ I'm a passionate open-source contributor and developer. I focus on building clea
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/rishav-raj-genx/Mind-Craft"><img src="https://img.shields.io/badge/Mind--Craft-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a><br/>
-      <sub><b>Peer Learning Platform built with JavaScript</b></sub>
+      <sub><b>Peer Learning Platform built with JavaScript, Node.js & Neo4j</b></sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/rishav-raj-genx/Live-Collaborative-White-Board"><img src="https://img.shields.io/badge/White--Board-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a><br/>
@@ -65,17 +65,19 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 **Languages**
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="https://en.cppreference.com/"><img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
 </p>
 
-**Frameworks & Libraries**
+**Frameworks, Libraries & Databases**
 <p align="left">
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/></a>
-  <a href="https://handlebarsjs.com/"><img src="https://img.shields.io/badge/Handlebars-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" alt="Handlebars"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
 </p>
 
 **Tools & Platforms**
@@ -83,7 +85,6 @@ I'm a passionate open-source contributor and developer. I focus on building clea
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
-  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
 </p>
 
 ---
@@ -97,7 +98,7 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 
 <!-- Fire Jet / Shooter Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/output/github-contribution-shooter.gif" alt="Fire Jet Contribution Animation"/>
+  <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/output/github-contribution-shooter.gif" alt="Fire Jet Contribution Animation"/>
 </p>
 
 ---
