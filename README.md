@@ -1,5 +1,10 @@
 <h1 align="center">Rishav Raj, Here</h1>
 
+<!-- 1. CUSTOM GRAPH IMAGE (Upload your image to an 'assets' folder and update this filename) -->
+<p align="center">
+  <img src="assets/my-custom-graph.png" alt="Rishav's Custom Graph" width="650"/>
+</p>
+
 <p align="center">
   <a href="https://github.com/rishav-raj-genx">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+%2F+Full-Stack+Developer;Open+Source+Enthusiast+%26+Builder;Leveling+Up+in+DSA+%26+Web+Dev" alt="Typing SVG" />
@@ -70,6 +75,7 @@ I'm a passionate open-source contributor and developer. I focus on building clea
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/></a>
+  <a href="https://handlebarsjs.com/"><img src="https://img.shields.io/badge/Handlebars-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" alt="Handlebars"/></a>
 </p>
 
 **Tools & Platforms**
@@ -77,24 +83,21 @@ I'm a passionate open-source contributor and developer. I focus on building clea
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
 </p>
 
 ---
 
 ## Contribution Activity
 
-<!-- 3D Contribution Calendar - Self-generated via GitHub Actions -->
+<!-- 3D Contribution Calendar -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
 </p>
 
-<!-- Snake Animation -->
+<!-- Fire Jet / Shooter Animation -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/output/github-contribution-shooter.gif" alt="Fire Jet Contribution Animation"/>
 </p>
 
 ---
@@ -102,8 +105,11 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/generated/github-metrics.svg" alt="GitHub Metrics"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishav-raj-genx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/generated/github-metrics.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/generated/github-metrics.svg" />
+    <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/generated/github-metrics.svg" alt="GitHub Metrics"/>
+  </picture>
 </p>
 
 ---
@@ -111,112 +117,6 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 ## WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2020%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2028%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.38%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 195.8 kB Used in GitHub's Storage 
- > 
-> 🏆 491 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 59 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                130 commits         ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-🌆 Daytime                101 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-🌃 Evening                204 commits         ██████████░░░░░░░░░░░░░░░   41.30 % 
-🌙 Night                  59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Tuesday                  98 commits          █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Thursday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Friday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Sunday                   143 commits         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               1 hr 36 mins        ██████████████░░░░░░░░░░░   57.03 % 
-JavaScript               29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-
-🔥 Editors: 
-Antigravity IDE          1 hr 21 mins        ████████████░░░░░░░░░░░░░   48.27 % 
-Antigravity              1 hr 18 mins        ████████████░░░░░░░░░░░░░   46.46 % 
-CLI                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-
-🐱‍💻 Projects: 
-KD                       2 hrs 23 mins       █████████████████████░░░░   85.11 % 
-staynest                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-
-💻 Operating System: 
-Mac                      2 hrs 48 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 48 mins (100.0%)
-
-✍️ 1,700 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 3,051,893 Input Tokens, 234,420 Output Tokens
-
-💵 $5.85 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 42 AI Prompts
-
-Gemini                   477 lines           █████████████░░░░░░░░░░░░   50.85 % 
-Opus                     461 lines           ████████████░░░░░░░░░░░░░   49.15 % 
-Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,940 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            ████████████░░░░░░░░░░░░░   48.53 % 
-TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
-
-
- Last Updated on 06/10/2026 00:16:35 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -224,7 +124,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ## Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [[Boost]](https://dev.to/rishavraj/-hj4) — *May 02, 2026*<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
