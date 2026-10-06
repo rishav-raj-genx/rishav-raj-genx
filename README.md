@@ -15,7 +15,7 @@
 ---
 
 <!-- Side-by-Side About Section (Left) and Image (Right) -->
-<img align="right" src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="320" style="margin-left: 25px;" />
+<img align="right" src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="380" />
 
 ## About Me
 
@@ -27,7 +27,7 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 - Sharpening my skills in Data Structures & Algorithms (DSA)
 - Actively contributing to open-source projects
 
-<br clear="both"/>
+<div style="clear: both;"></div>
 
 ---
 
@@ -96,14 +96,18 @@ I'm a passionate open-source contributor and developer. I focus on building clea
   <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
 </p>
 
-<!-- Fire Jet / Shooter Animation -->
+<!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/output/github-contribution-shooter.gif" alt="Fire Jet Contribution Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake grid" src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
-## GitHub Stats
+## GitHub Stats & Coding Habits
 
 <p align="center">
   <picture>
