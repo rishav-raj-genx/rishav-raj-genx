@@ -27,7 +27,8 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 - Sharpening my skills in Data Structures & Algorithms (DSA)
 - Actively contributing to open-source projects
 
-<div style="clear: both;"></div>
+<!-- This tag forces the layout to push past the image before continuing -->
+<br clear="all" />
 
 ---
 
