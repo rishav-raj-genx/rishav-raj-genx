@@ -1,10 +1,5 @@
 <h1 align="center">Rishav Raj, Here</h1>
 
-<!-- 1. CUSTOM GRAPH IMAGE -->
-<p align="center">
-  <img src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="650"/>
-</p>
-
 <p align="center">
   <a href="https://github.com/rishav-raj-genx">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+%2F+Full-Stack+Developer;Open+Source+Enthusiast+%26+Builder;Leveling+Up+in+DSA+%26+Web+Dev" alt="Typing SVG" />
@@ -19,6 +14,9 @@
 
 ---
 
+<!-- Side-by-Side Image and About Section -->
+<img align="left" src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="320" style="margin-right: 25px;" />
+
 ## About Me
 
 **Computer Science Undergraduate & Software Developer**
@@ -28,6 +26,8 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 - Building responsive web apps with React & Node.js
 - Sharpening my skills in Data Structures & Algorithms (DSA)
 - Actively contributing to open-source projects
+
+<br clear="both"/>
 
 ---
 
@@ -94,11 +94,6 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 <!-- 3D Contribution Calendar -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
-</p>
-
-<!-- Fire Jet / Shooter Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/output/github-contribution-shooter.gif" alt="Fire Jet Contribution Animation"/>
 </p>
 
 ---
