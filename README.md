@@ -2,7 +2,7 @@
 
 <!-- 1. CUSTOM GRAPH IMAGE (Upload your image to an 'assets' folder and update this filename) -->
 <p align="center">
-  <img src="assets/my-custom-graph.png" alt="Rishav's Custom Graph" width="650"/>
+  <img src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="650"/>
 </p>
 
 <p align="center">
