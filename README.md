@@ -14,8 +14,8 @@
 
 ---
 
-<!-- Side-by-Side Image and About Section -->
-<img align="left" src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="320" style="margin-right: 25px;" />
+<!-- Side-by-Side About Section (Left) and Image (Right) -->
+<img align="right" src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="320" style="margin-left: 25px;" />
 
 ## About Me
 
@@ -94,6 +94,11 @@ I'm a passionate open-source contributor and developer. I focus on building clea
 <!-- 3D Contribution Calendar -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+</p>
+
+<!-- Fire Jet / Shooter Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/output/github-contribution-shooter.gif" alt="Fire Jet Contribution Animation"/>
 </p>
 
 ---
