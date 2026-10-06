@@ -14,10 +14,6 @@
 
 ---
 
-<!-- Side-by-Side About Section (Left) and Image (Right) -->
-<img align="right" src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="350" />
-
-### About Me
 
 <!-- Side-by-Side About Section (Left) and Image (Right) -->
 <img align="right" src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="380" />
