@@ -2,7 +2,7 @@ name: Generate Contribution Shooter Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -19,9 +19,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Uses a community action to generate the space-invader style shooter GIF
+      # Using community backup clone of the deleted shooter action
       - name: Generate Shooter GIF
-        uses: abhisheknaiidu/github-contribution-shooter@v1
+        uses: Siddharth11/github-contribution-shooter@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
