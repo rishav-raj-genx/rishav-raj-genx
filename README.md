@@ -125,15 +125,15 @@ Beyond building personal projects, I actively contribute to the open-source comm
 ## WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 196.9 kB Used in GitHub's Storage 
+> 📦 197.5 kB Used in GitHub's Storage 
  > 
 > 🏆 535 Contributions in the Year 2026
  > 
@@ -170,51 +170,51 @@ Sunday                   143 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    26 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-JavaScript               20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-TypeScript               19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Markdown                 18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-HTML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Other                    26 mins             █████████░░░░░░░░░░░░░░░░   36.53 % 
+TypeScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+JavaScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-Antigravity              55 mins             ██████████████░░░░░░░░░░░   56.41 % 
-Antigravity IDE          29 mins             ████████░░░░░░░░░░░░░░░░░   30.28 % 
-CLI                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Copilot CLI              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Antigravity              55 mins             ███████████████████░░░░░░   77.96 % 
+CLI                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Copilot CLI              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Antigravity IDE          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🐱‍💻 Projects: 
-untitled folder          29 mins             ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-KD                       28 mins             ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-staynest                 25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-QR- Code                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-DSA-in-CPP-              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+untitled folder          29 mins             ██████████░░░░░░░░░░░░░░░   40.74 % 
+staynest                 25 mins             █████████░░░░░░░░░░░░░░░░   35.19 % 
+QR- Code                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+DSA-in-CPP-              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Blog Management System   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 💻 Operating System: 
-Mac                      1 hr 38 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (100.0%)
+⏱ AI Coding Time: 1 hr 11 mins (100.0%)
 
-✍️ 1,202 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 802 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,518,772 Input Tokens, 146,889 Output Tokens
+🔤 1,180,689 Input Tokens, 121,690 Output Tokens
 
-💵 $2.12 Estimated AI Cost This Week
+💵 $0.26 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 28 AI Prompts
+🧠 8 AI Sessions, 20 AI Prompts
 
-Opus                     400 lines           █████████████░░░░░░░░░░░░   51.68 % 
-Gemini                   374 lines           ████████████░░░░░░░░░░░░░   48.32 % 
+Gemini                   374 lines           █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,562 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 1,500 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -235,7 +235,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:32:25 UTC
+ Last Updated on 09/10/2026 22:50:48 UTC
 <!--END_SECTION:waka-->
 
 ---
