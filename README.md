@@ -129,38 +129,38 @@ Beyond building personal projects, I actively contribute to the open-source comm
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 197.5 kB Used in GitHub's Storage 
+> 📦 161.9 kB Used in GitHub's Storage 
  > 
-> 🏆 535 Contributions in the Year 2026
+> 🏆 532 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 63 Public Repositories 
+> 📜 56 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                131 commits         ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-🌆 Daytime                115 commits         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-🌃 Evening                220 commits         ██████████░░░░░░░░░░░░░░░   41.43 % 
-🌙 Night                  65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+🌞 Morning                130 commits         ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+🌆 Daytime                116 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+🌃 Evening                218 commits         ██████████░░░░░░░░░░░░░░░   41.13 % 
+🌙 Night                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Tuesday                  118 commits         ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Wednesday                61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Thursday                 47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Friday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Sunday                   143 commits         ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Monday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Tuesday                  118 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Wednesday                61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Thursday                 47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Friday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Saturday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Sunday                   146 commits         ███████░░░░░░░░░░░░░░░░░░   27.55 % 
 ```
 
 
@@ -221,11 +221,11 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               34 repos            ████████████░░░░░░░░░░░░░   47.22 % 
-TypeScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               34 repos            ████████████░░░░░░░░░░░░░   47.89 % 
+TypeScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 
 
@@ -235,7 +235,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:50:48 UTC
+ Last Updated on 10/10/2026 21:57:37 UTC
 <!--END_SECTION:waka-->
 
 ---
