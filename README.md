@@ -133,7 +133,7 @@ Beyond building personal projects, I actively contribute to the open-source comm
 
 **🐱 My GitHub Data** 
 
-> 📦 214.7 kB Used in GitHub's Storage 
+> 📦 215.3 kB Used in GitHub's Storage 
  > 
 > 🏆 703 Contributions in the Year 2026
  > 
@@ -146,21 +146,21 @@ Beyond building personal projects, I actively contribute to the open-source comm
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                161 commits         ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-🌆 Daytime                216 commits         ████████░░░░░░░░░░░░░░░░░   30.42 % 
-🌃 Evening                243 commits         █████████░░░░░░░░░░░░░░░░   34.23 % 
-🌙 Night                  90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+🌞 Morning                161 commits         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+🌆 Daytime                218 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
+🌃 Evening                244 commits         █████████░░░░░░░░░░░░░░░░   34.22 % 
+🌙 Night                  90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Tuesday                  140 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Wednesday                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Thursday                 77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Friday                   47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Saturday                 65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Sunday                   222 commits         ████████░░░░░░░░░░░░░░░░░   31.27 % 
+Monday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Tuesday                  141 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Wednesday                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Thursday                 77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Friday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Saturday                 65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Sunday                   223 commits         ████████░░░░░░░░░░░░░░░░░   31.28 % 
 ```
 
 
@@ -170,47 +170,44 @@ Sunday                   222 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               19 hrs 56 mins      ███████████████████░░░░░░   75.72 % 
-Python                   3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-SQL                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+TypeScript               17 hrs 41 mins      ███████████████████░░░░░░   77.14 % 
+Python                   3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-Antigravity IDE          25 hrs 50 mins      █████████████████████████   98.17 % 
-Copilot CLI              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Antigravity IDE          22 hrs 44 mins      █████████████████████████   99.14 % 
+Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 Antigravity-Cli          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-Placement Readiness Copil24 hrs 35 mins      ███████████████████████░░   93.43 % 
-Orient BlackSwan History 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-avenx-js                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-as-5                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Placement Readiness Copil21 hrs 39 mins      ████████████████████████░   94.45 % 
+Orient BlackSwan History 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 💻 Operating System: 
-Mac                      26 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 19 mins (100.0%)
+⏱ AI Coding Time: 22 hrs 56 mins (100.0%)
 
-✍️ 42,939 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 34,170 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 34,358,039 Input Tokens, 4,506,171 Output Tokens
+🔤 30,477,382 Input Tokens, 4,026,041 Output Tokens
 
-💵 $315.20 Estimated AI Cost This Week
+💵 $261.68 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 224 AI Prompts
+🧠 38 AI Sessions, 184 AI Prompts
 
-Gemini                   29,250 lines        ████████████████░░░░░░░░░   64.70 % 
-GPT                      13,535 lines        ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-Opus                     2,422 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Gemini                   25,994 lines        ██████████████████░░░░░░░   72.13 % 
+GPT                      10,044 lines        ███████░░░░░░░░░░░░░░░░░░   27.87 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,725 characters per prompt
+📚 Verbose Prompter — average 1,715 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -232,7 +229,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:17:00 UTC
+ Last Updated on 26/10/2026 23:04:45 UTC
 <!--END_SECTION:waka-->
 
 ---
