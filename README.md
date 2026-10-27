@@ -133,9 +133,9 @@ Beyond building personal projects, I actively contribute to the open-source comm
 
 **🐱 My GitHub Data** 
 
-> 📦 215.3 kB Used in GitHub's Storage 
+> 📦 215.8 kB Used in GitHub's Storage 
  > 
-> 🏆 703 Contributions in the Year 2026
+> 🏆 705 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -143,75 +143,6 @@ Beyond building personal projects, I actively contribute to the open-source comm
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                161 commits         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-🌆 Daytime                218 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
-🌃 Evening                244 commits         █████████░░░░░░░░░░░░░░░░   34.22 % 
-🌙 Night                  90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Tuesday                  141 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Wednesday                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Thursday                 77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Friday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Saturday                 65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Sunday                   223 commits         ████████░░░░░░░░░░░░░░░░░   31.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               17 hrs 41 mins      ███████████████████░░░░░░   77.14 % 
-Python                   3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-
-🔥 Editors: 
-Antigravity IDE          22 hrs 44 mins      █████████████████████████   99.14 % 
-Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Antigravity-Cli          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🐱‍💻 Projects: 
-Placement Readiness Copil21 hrs 39 mins      ████████████████████████░   94.45 % 
-Orient BlackSwan History 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-
-💻 Operating System: 
-Mac                      22 hrs 56 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 22 hrs 56 mins (100.0%)
-
-✍️ 34,170 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 30,477,382 Input Tokens, 4,026,041 Output Tokens
-
-💵 $261.68 Estimated AI Cost This Week
-
-🧠 38 AI Sessions, 184 AI Prompts
-
-Gemini                   25,994 lines        ██████████████████░░░░░░░   72.13 % 
-GPT                      10,044 lines        ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,715 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -229,7 +160,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 23:04:45 UTC
+ Last Updated on 27/10/2026 22:44:31 UTC
 <!--END_SECTION:waka-->
 
 ---
