@@ -133,7 +133,7 @@ Beyond building personal projects, I actively contribute to the open-source comm
 
 **🐱 My GitHub Data** 
 
-> 📦 209.8 kB Used in GitHub's Storage 
+> 📦 210.4 kB Used in GitHub's Storage 
  > 
 > 🏆 710 Contributions in the Year 2026
  > 
@@ -146,21 +146,21 @@ Beyond building personal projects, I actively contribute to the open-source comm
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                165 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-🌆 Daytime                228 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
-🌃 Evening                244 commits         ████████░░░░░░░░░░░░░░░░░   33.38 % 
-🌙 Night                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+🌞 Morning                167 commits         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+🌆 Daytime                234 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
+🌃 Evening                246 commits         ████████░░░░░░░░░░░░░░░░░   33.11 % 
+🌙 Night                  96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Tuesday                  144 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Wednesday                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Thursday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Friday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Saturday                 65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Sunday                   226 commits         ████████░░░░░░░░░░░░░░░░░   30.92 % 
+Monday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Tuesday                  146 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Wednesday                102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Thursday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Friday                   53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Saturday                 65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Sunday                   228 commits         ████████░░░░░░░░░░░░░░░░░   30.69 % 
 ```
 
 
@@ -170,46 +170,42 @@ Sunday                   226 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   40.98 % 
-Python                   49 mins             ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+JavaScript               1 hr 8 mins         ███████████████████░░░░░░   75.70 % 
+Other                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 16 mins        ███████████░░░░░░░░░░░░░░   45.83 % 
-Codex Vscode             52 mins             ████████░░░░░░░░░░░░░░░░░   31.41 % 
-Copilot CLI              22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Antigravity Desktop      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Antigravity-Cli          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Codex Vscode             52 mins             ███████████████░░░░░░░░░░   58.02 % 
+Copilot CLI              22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+Antigravity Desktop      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
 
 🐱‍💻 Projects: 
-avenx-js                 1 hr 30 mins        ██████████████░░░░░░░░░░░   54.14 % 
-Orient BlackSwan History 1 hr 16 mins        ███████████░░░░░░░░░░░░░░   45.86 % 
+avenx-js                 1 hr 30 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (100.0%)
+⏱ AI Coding Time: 1 hr 30 mins (100.0%)
 
-✍️ 1,354 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 271 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,803,021 Input Tokens, 291,994 Output Tokens
+🔤 2,491,722 Input Tokens, 160,601 Output Tokens
 
-💵 $48.28 Estimated AI Cost This Week
+💵 $34.56 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 42 AI Prompts
+🧠 15 AI Sessions, 24 AI Prompts
 
-Gemini                   805 lines           ██████████████░░░░░░░░░░░   54.72 % 
-GPT                      666 lines           ███████████░░░░░░░░░░░░░░   45.28 % 
+GPT                      318 lines           █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,057 characters per prompt
+📚 Verbose Prompter — average 2,526 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -231,7 +227,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 23:10:25 UTC
+ Last Updated on 30/10/2026 22:48:36 UTC
 <!--END_SECTION:waka-->
 
 ---
