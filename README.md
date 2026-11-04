@@ -6,20 +6,11 @@
   </a>
 </p>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/stars/rishav-raj-genx?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=6C63FF" alt="Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=rishav-raj-genx&color=6C63FF&style=for-the-badge&label=Profile%20Views" alt="Profile Views"/>
-</p>
-
----
-
 <p align="center">
   <img src="assets/tired.gif" alt="Retro Gamer Room" width="100%" />
 </p>
 
 <!-- Side-by-Side About Section (Left) and Image (Right) -->
-<img align="right" src="assets/skeleton.gif" alt="Rishav's Custom Graph" width="380" />
 
 ### About Me
 
@@ -65,6 +56,8 @@ Beyond building personal projects, I actively contribute to the open-source comm
 </table>
 
 ---
+
+<img align="right" src="assets/skeleton.gif" alt="Rishav's Custom Graph" width="380" />
 
 ## Tech Stack
 
