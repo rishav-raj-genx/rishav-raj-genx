@@ -10,7 +10,7 @@
   <img src="assets/tired.gif" alt="Retro Gamer Room" width="100%" />
 </p>
 
-<img align="right" src="assets/hum.jpeg" alt="Rishav's Custom Graph" width="400"  />
+<img align="right" src="assets/hum.jpeg" alt="Rishav's Custom Graph" width="390"  />
 
 ### About Me
 
