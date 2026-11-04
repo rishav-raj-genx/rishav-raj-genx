@@ -57,9 +57,9 @@ I am a full-stack developer passionate about building scalable applications and 
 
 ## Tech Stack
 
-<img align="right" src="assets/skeleton.gif" alt="Rishav's Custom Graph" width="380"  />
 
 **Languages**
+<img align="right" src="assets/skeleton.gif" alt="Rishav's Custom Graph" width="380"  />
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
