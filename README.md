@@ -14,8 +14,12 @@
 
 ---
 
+<p align="center">
+  <img src="assets/tired.gif" alt="Retro Gamer Room" width="100%" />
+</p>
+
 <!-- Side-by-Side About Section (Left) and Image (Right) -->
-<img align="right" src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="380" />
+<img align="right" src="assets/skeleton.gif" alt="Rishav's Custom Graph" width="380" />
 
 ### About Me
 
