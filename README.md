@@ -14,13 +14,6 @@
 
 ---
 
-<!-- Activity Graph (with cache-buster) -->
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-raj-genx&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true&v=1" width="100%" alt="Rishav's GitHub Activity Graph" />
-  </a>
-</p>
-
 <!-- Side-by-Side About Section (Left) and Image (Right) -->
 <img align="right" src="assets/github-graph (6).png" alt="Rishav's Custom Graph" width="380" />
 
@@ -100,9 +93,9 @@ Beyond building personal projects, I actively contribute to the open-source comm
 
 ## Contribution Activity
 
-<!-- 3D Contribution Calendar (Using relative path) -->
+<!-- 3D Contribution Calendar -->
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+  <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
 </p>
 
 <!-- Snake Animation -->
