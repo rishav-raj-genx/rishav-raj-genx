@@ -14,6 +14,8 @@
 
 ### About Me
 
+<img align="right" src="assets/hum.jpeg" alt="Rishav's Custom Graph" width="380"  />
+
 **Computer Science (AI & ML) Undergraduate & Software Developer**
 
 I am a dedicated software developer and active open-source contributor with a strong focus on frontend architecture and full-stack web development. I am passionate about building scalable applications, designing intuitive user interfaces, and solving complex problems through efficient code.
@@ -60,7 +62,7 @@ Beyond building personal projects, I actively contribute to the open-source comm
 
 ## Tech Stack
 
-<img align="right" src="assets/skeleton.gif" alt="Rishav's Custom Graph" width="380" style="margin-top: 30px;" />
+<img align="right" src="assets/skeleton.gif" alt="Rishav's Custom Graph" width="380"  />
 
 **Languages**
 <p align="left">
