@@ -57,9 +57,10 @@ Beyond building personal projects, I actively contribute to the open-source comm
 
 ---
 
-<img align="right" src="assets/skeleton.gif" alt="Rishav's Custom Graph" width="380" style="margin-top: 30px;" />
 
 ## Tech Stack
+
+<img align="right" src="assets/skeleton.gif" alt="Rishav's Custom Graph" width="380" style="margin-top: 30px;" />
 
 **Languages**
 <p align="left">
