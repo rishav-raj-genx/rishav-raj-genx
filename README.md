@@ -10,22 +10,13 @@
   <img src="assets/tired.gif" alt="Retro Gamer Room" width="100%" />
 </p>
 
-<!-- Side-by-Side About Section (Left) and Image (Right) -->
+<img align="right" src="assets/hum.jpeg" alt="Rishav's Custom Graph" width="380"  />
 
 ### About Me
-
-<img align="right" src="assets/hum.jpeg" alt="Rishav's Custom Graph" width="380"  />
 
 **Computer Science (AI & ML) Undergraduate & Software Developer**
 
 I am a dedicated software developer and active open-source contributor with a strong focus on frontend architecture and full-stack web development. I am passionate about building scalable applications, designing intuitive user interfaces, and solving complex problems through efficient code.
-
-Beyond building personal projects, I actively contribute to the open-source community. I have successfully submitted and merged pull requests to impactful repositories like the **cBioPortal** frontend and the **Gambit Project**, focusing on resolving layout inconsistencies, upgrading responsive UI components, and collaborating through strict Git workflows.
-
-- Building robust full-stack applications using React, Node.js, and Express.
-- Contributing to large-scale open-source projects and participating in code reviews.
-- Deepening my foundational knowledge in Data Structures & Algorithms (DSA).
-- Exploring the intersection of modern Web Development and AI/ML technologies.
 
 <br clear="all" />
 
