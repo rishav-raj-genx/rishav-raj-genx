@@ -89,14 +89,14 @@ I am a full-stack developer passionate about building scalable applications and 
 
 <!-- 3D Contribution Calendar -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+  <img src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/main/profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D Contribution Calendar"/>
 </p>
 
 <!-- Snake Animation -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/output/github-contribution-grid-snake.svg?v=1">
     <img alt="github contribution snake grid" src="https://raw.githubusercontent.com/rishav-raj-genx/rishav-raj-genx/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
