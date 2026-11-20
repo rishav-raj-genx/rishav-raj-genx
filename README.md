@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/rishav-raj-genx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+%2F+Full-Stack+Developer;Open+Source+Enthusiast+%26+Builder;Leveling+Up+in+DSA+%26+Web+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF¢er=true&vCenter=true&width=600&lines=Frontend+%2F+Full-Stack+Developer;Open+Source+Enthusiast+%26+Builder;Leveling+Up+in+DSA+%26+Web+Dev" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,22 +32,22 @@ I am a full-stack developer passionate about building scalable applications and 
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/rishav-raj-genx/Mind-Craft"><img src="https://img.shields.io/badge/Mind--Craft-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a><br/>
-      <sub><b>Peer Learning Platform built with JavaScript, Node.js & Neo4j</b></sub>
+      <a href="https://github.com/rishav-raj-genx/TribalScholar-AI"><img src="https://img.shields.io/badge/TribalScholar--AI-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a><br/>
+      <sub><b>AI-powered scholarship discovery & guidance platform</b></sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/rishav-raj-genx/Live-Collaborative-White-Board"><img src="https://img.shields.io/badge/White--Board-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a><br/>
-      <sub><b>Live Collaborative White-Board application</b></sub>
+      <a href="https://github.com/rishav-raj-genx/Demand-Driven-Academic-Innovation-Pipeline"><img src="https://img.shields.io/badge/Academic--Innovation--Pipeline-Full--Stack-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a><br/>
+      <sub><b>Demand-driven academic research & innovation pipeline</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/rishav-raj-genx/Digital-Time-Capsule"><img src="https://img.shields.io/badge/Time--Capsule-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a><br/>
-      <sub><b>Interactive Digital Time Capsule web app</b></sub>
+      <a href="https://github.com/rishav-raj-genx/Tinkr"><img src="https://img.shields.io/badge/Tinkr-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a><br/>
+      <sub><b>Interactive builder & prototyping workspace</b></sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/rishav-raj-genx/Kinesis-College-Demo-Website"><img src="https://img.shields.io/badge/Kinesis--College-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a><br/>
-      <sub><b>College Demo Website featuring responsive design</b></sub>
+      <a href="https://github.com/rishav-raj-genx/Tron"><img src="https://img.shields.io/badge/Tron-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a><br/>
+      <sub><b>High-speed interactive Tron engine & web experience</b></sub>
     </td>
   </tr>
 </table>
