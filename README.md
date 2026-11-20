@@ -1,9 +1,8 @@
 <h1 align="center">Rishav Raj, Here</h1>
 
 <p align="center">
-  <a href="https://github.com/rishav-raj-genx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF¢er=true&vCenter=true&width=600&lines=Frontend+%2F+Full-Stack+Developer;Open+Source+Enthusiast+%26+Builder;Leveling+Up+in+DSA+%26+Web+Dev&v=2" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/Full--Stack_%26_AI%2FML_Developer-6C63FF?style=for-the-badge" alt="Full-Stack & AI/ML Developer" />
+  <img src="https://img.shields.io/badge/Open_Source_Contributor-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
 </p>
 
 <p align="center">
