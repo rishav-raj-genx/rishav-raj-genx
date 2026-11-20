@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/rishav-raj-genx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF¢er=true&vCenter=true&width=600&lines=Frontend+%2F+Full-Stack+Developer;Open+Source+Enthusiast+%26+Builder;Leveling+Up+in+DSA+%26+Web+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF¢er=true&vCenter=true&width=600&lines=Frontend+%2F+Full-Stack+Developer;Open+Source+Enthusiast+%26+Builder;Leveling+Up+in+DSA+%26+Web+Dev&v=2" alt="Typing SVG" />
   </a>
 </p>
 
