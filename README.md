@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/rishav-raj-genx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF¢er=true&vCenter=true&width=600&lines=Frontend+%2F+Full-Stack+Developer;Open+Source+Enthusiast+%26+Builder;Leveling+Up+in+DSA+%26+Web+Dev&v=2" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&width=600&lines=Frontend+%2F+Full-Stack+Developer;Open+Source+Enthusiast+%26+Builder;Leveling+Up+in+DSA+%26+Web+Dev" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
   <img src="assets/tired.gif" alt="Retro Gamer Room" width="100%" />
 </p>
 
-<img align="right" src="assets/hum.jpeg" alt="Rishav's Custom Graph" width="380"  />
+<img align="right" src="assets/hum.jpeg" alt="Rishav's Custom Graph" width="380" />
 
 ### About Me
 
@@ -54,12 +54,12 @@ I am a full-stack developer passionate about building scalable applications and 
 
 ---
 
-
 ## Tech Stack
+
+<img align="right" src="assets/skeleton.gif" alt="Rishav's Custom Graph" width="350" />
 
 **Languages**
 <p align="left">
-<img align="right" src="assets/skeleton.gif" alt="Rishav's Custom Graph" width="350"  />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="https://en.cppreference.com/"><img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/></a>
