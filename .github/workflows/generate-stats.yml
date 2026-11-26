@@ -4,6 +4,13 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'generated/**'
+      - 'profile-3d-contrib/**'
+      - 'output/**'
 
 jobs:
   generate-metrics:
@@ -14,14 +21,17 @@ jobs:
       - name: Generate Advanced GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: rishav-raj-genx
           filename: generated/github-metrics.svg
-          output_action: commit
-          committer_branch: main
+          template: classic
           base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          output_action: commit
           plugin_habits: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 100
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          config_timezone: Asia/Kolkata
